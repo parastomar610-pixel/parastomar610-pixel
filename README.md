@@ -71,19 +71,12 @@ EDA on real-world NYC Yellow Taxi trip data: data cleaning, outlier detection, f
 
 🔗 [View Project →](https://github.com/parastomar610-pixel/EDA-Project-using-Python-NYC-Yellow-Taxi-Real-World-Data)
 
-### 📊 MIS Reporting & Dashboards
-**Excel · Power BI · Power Query**
-
-Interactive dashboards and MIS reports for KPI tracking, performance analysis and data validation.
-
-🔗 View Project → *(coming soon)*
-
-### 🗄️ SQL Data Analysis
-**MySQL · SQL**
-
-Data extraction, joins, subqueries, GROUP BY / HAVING and analytical queries on real-world datasets.
-
-🔗 View Project → *(coming soon)*
+<!-- MIS Dashboard / SQL project ki repo banne par yahan add karein:
+### 📊 Project name
+**Tools**
+Ek line: problem, aapne kya banaya, result.
+🔗 [View Project →](repo-link)
+-->
 
 ---
 
